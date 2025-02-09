@@ -33,5 +33,7 @@ function shinyDiamondRug(n) {
     }
 
 console.log("test info");
+console.log("test info3");
+
 console.log("test info");
   console.log(shinyDiamondRug(5));
