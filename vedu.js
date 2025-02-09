@@ -32,5 +32,5 @@ function shinyDiamondRug(n) {
     return mainstr.trimEnd();
     }
 
-
+console.log("test info");
   console.log(shinyDiamondRug(5));
